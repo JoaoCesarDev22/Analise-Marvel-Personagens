@@ -87,7 +87,7 @@ O arquivo `app.py` tenta importar Flask. Se Flask estiver instalado, o projeto r
 
 Isso foi feito para garantir que o projeto rode no laboratorio da faculdade mesmo sem instalacao previa de dependencias.
 
-## Como Rodar Amanhã na Faculdade
+## Como Rodar
 
 ### Opcao 1: Python puro, sem instalar nada
 
